@@ -1,0 +1,1 @@
+Content-Security-Policy: default-src 'self' *.github.com *.githubusercontent.com ttps://fselliott--asstmngmnt.sandbox.my.site.com';
